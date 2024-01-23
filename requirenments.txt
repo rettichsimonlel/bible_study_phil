@@ -1,2 +1,3 @@
 pythonbible
+urllib3
 pytest
